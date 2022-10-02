@@ -1,2 +1,3 @@
 # .github
-Readme for the Electric Hive Github organization
+
+Readme for the Electric Hive Github organization profile
